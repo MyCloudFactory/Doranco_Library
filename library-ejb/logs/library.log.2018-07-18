@@ -1,0 +1,30 @@
+2018-07-18 08:40:35,611 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:40:35,814 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:40:35,924 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:40:35,939 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:41:52,810 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:41:52,966 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:41:53,091 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:41:53,106 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:42:24,614 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:42:24,770 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:42:24,895 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:42:24,895 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:49:24,709 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:49:24,881 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 08:49:26,013 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] pilote mysql enregistré
+2018-07-18 08:49:26,013 [main] DEBUG [com.doranco.multitiers.dao.ConnectionFactory] connexion à la BD Mysql réussie
+2018-07-18 14:31:02,242 [http-thread-pool-8181(2)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : Cart [id=19, name=les contes du mois 16, books=[]]
+2018-07-18 14:34:28,529 [http-thread-pool-8181(3)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 14:55:52,000 [http-thread-pool-8181(1)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 14:57:13,301 [http-thread-pool-8181(5)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 14:59:31,757 [http-thread-pool-8181(5)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 15:00:47,918 [http-thread-pool-8181(1)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 15:01:43,929 [http-thread-pool-8181(2)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 15:03:49,779 [http-thread-pool-8181(5)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 15:04:27,315 [http-thread-pool-8181(1)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 15:05:46,233 [http-thread-pool-8181(3)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 15:07:06,366 [http-thread-pool-8181(2)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : null
+2018-07-18 16:40:52,866 [http-thread-pool-8181(2)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 15 est : Cart [id=15, name=les contes du mois 14]
+2018-07-18 16:40:52,882 [http-thread-pool-8181(2)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 15 est : Cart [id=15, name=lectures de l'année]
+2018-07-18 16:40:52,882 [http-thread-pool-8181(5)] DEBUG [com.doranco.multitiers.dao.test.CartDAOTest] Le panier d'id 19 est : Cart [id=19, name=les contes du mois 18]

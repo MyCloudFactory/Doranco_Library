@@ -1,0 +1,12 @@
+com\doranco\multitiers\dao\UserDAO.class
+com\doranco\multitiers\ejb\impl\UserBean.class
+com\doranco\multitiers\dao\OrderDAO.class
+com\doranco\multitiers\NewSessionBean.class
+com\doranco\multitiers\dao\OrderLineDAO.class
+com\doranco\multitiers\dao\ViewingDAO.class
+com\doranco\multitiers\ejb\impl\BookBean.class
+com\doranco\multitiers\dao\BookDAO.class
+com\doranco\multitiers\ejb\impl\NoteBean.class
+com\doranco\multitiers\dao\NoteDAO.class
+com\doranco\multitiers\dao\GenericDAO.class
+com\doranco\multitiers\ejb\impl\PanierBean.class

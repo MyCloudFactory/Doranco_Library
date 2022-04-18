@@ -1,0 +1,13 @@
+/library-common/target/
+/library-common/.settings/
+/library-common/.project
+/library-common/.classpath/library-ejb/target/
+/library-ejb/.settings/
+/library-ejb/.project
+/library-ejb/.classpath/library-web/target/
+/library-web/.settings/
+/library-web/.project
+/library-web/.classpath/library-ear/target/
+/library-ear/.settings/
+/library-ear/.project
+/library-ear/.classpath
